@@ -2,7 +2,7 @@
 사용자의 취향에 맞는 영화 추천 서비스
 
 ## 📖 상세 내용
-https://github.com/KangByungHyun/movie-cok/blob/main/MOVIE-COK.pdf
+https://github.com/KangByungHyun/movie-cok/blob/master/MOVIE-COK.pdf
 
 ## 🛠️ 사용 기술 및 라이브러리
 
