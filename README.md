@@ -3,7 +3,9 @@
 
 ## 📖 상세 내용
 Site : https://kangbyunghyun.com/common/
+
 Video : https://youtu.be/MUdCyzQD6U4
+
 PDF : https://github.com/KangByungHyun/movie-cok/blob/master/MOVIE-COK.pdf
 
 ## 🛠️ 사용 기술 및 라이브러리
