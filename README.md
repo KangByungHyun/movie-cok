@@ -2,7 +2,7 @@
 사용자의 취향에 맞는 영화 추천 서비스
 
 ## 📖 상세 내용
-Site : https://kangbyunghyun.com/common/
+Site : https://kangbyunghyun.com/common/ (서버 종료)
 
 Video : https://youtu.be/MUdCyzQD6U4
 
